@@ -1,2 +1,2 @@
-# Chaotic signals deep learning-based image encryption.
+# Deep learning-based chaotic signals and application in image encryption.
 image encryption
